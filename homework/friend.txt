@@ -1,1 +1,1 @@
-[friend:Athul,friend:Kiran,friend:Akshay,friend:Juhal,friend:Georgekutty,friend:Fasil,friend:Anand]
+friend:Athul,friend:Kiran,friend:Akshay,friend:Juhal,friend:Georgekutty,friend:Fasil,friend:Anand
